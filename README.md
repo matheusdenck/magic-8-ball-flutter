@@ -1,3 +1,10 @@
+# Section 8 - Magic 8 Ball
+
+## This is my version of the app.
+Developed on the "The Complete 2021 Flutter Development Bootcamp with Dart" made by AppBrewery.
+
+---
+
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 
